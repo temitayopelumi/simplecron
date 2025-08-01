@@ -1,4 +1,4 @@
-# 🕒 Cron Parser
+# Cron Parser
 
 A simple **cron expression parser** written in Python.  
 It takes a standard cron string (with 5 time fields + command) and expands each field to show the exact values when it will run.
@@ -39,7 +39,7 @@ To get started with the Cron Parser, follow these steps:
 4. **Run the parser or tests**  
    - To use the parser, run:
      ```bash
-     python cron_parser.py "<your-cron-string> <your-command>"
+     python cron_praser.py "<your-cron-string> <your-command>"
      ```
    - To run the test suite:
      ```bash
